@@ -45,8 +45,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T08:06:24.271Z",
+    "last_updated": "2026-08-19T12:52:32.229Z",
     "original_repository": "lauris/awesome-scala",
+    "original_repository_id": 21604505,
     "original_repository_sha": "9d66edf433d83df34ee40eea6520d0d308e11ff2",
     "enhanced_repository": "enhansome/enhansome-scala",
     "enhanced_repository_description": null,
