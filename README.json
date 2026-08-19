@@ -1,247 +1,51 @@
 {
   "items": [
     {
-      "description": "Your contributions are always welcome! Please submit a pull request or create an issue to add a new framework, library or software to the list. Do not submit a project that hasn’t been updated in the past 6 months or is not awesome.\nDon't modify in your pull request. It is automatically generated. Modify instead.",
-      "items": [],
-      "title": "Contributing"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Archive and Compression"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Artificial Intelligence"
-    },
-    {
-      "description": "Database access libraries in Scala.",
-      "items": [],
-      "title": "Database"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Messaging"
-    },
-    {
-      "description": "Libraries for creation of graphical user interfaces",
-      "items": [],
-      "title": "Graphical User Interfaces"
-    },
-    {
-      "description": "Scala frameworks for web development.",
-      "items": [],
-      "title": "Web Frameworks"
-    },
-    {
-      "description": "Scala libraries for Reactive Web development",
-      "items": [],
-      "title": "Reactive Web Frameworks"
-    },
-    {
-      "description": "Scala libraries for data binding and validation",
-      "items": [],
-      "title": "Data Binding and Validation"
-    },
-    {
-      "description": "Scala libraries for i18n.",
-      "items": [],
-      "title": "i18n"
-    },
-    {
-      "description": "Libraries for implementing authentications schemes.",
-      "items": [],
-      "title": "Authentication"
-    },
-    {
-      "description": "Cryptography and Encryption Libraries.",
-      "items": [],
-      "title": "Cryptography"
-    },
-    {
-      "description": "Libraries for code testing.",
-      "items": [],
-      "title": "Testing"
-    },
-    {
-      "description": "Libraries for work with json.",
-      "items": [],
-      "title": "JSON"
-    },
-    {
-      "description": "Libraries for work with YAML.",
-      "items": [],
-      "title": "YAML"
-    },
-    {
-      "description": "Libraries for work with CSV.",
-      "items": [],
-      "title": "CSV"
-    },
-    {
-      "description": "Libraries for serializing and deserializing data for storage or transport.",
-      "items": [],
-      "title": "Serialization"
-    },
-    {
-      "description": "Libraries for scientific computing, data analysis and numerical processing.",
-      "items": [],
-      "title": "Science and Data Analysis"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Big Data"
-    },
-    {
-      "description": "Libraries for creation of command line interfaces",
-      "items": [],
-      "title": "Command Line Interfaces"
-    },
-    {
-      "description": "2D and 3D image processing and image analysis",
-      "items": [],
-      "title": "Image processing and image analysis"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Sound processing and music"
-    },
-    {
-      "description": "Event streams, signals, observables, etc.",
-      "items": [],
-      "title": "Functional Reactive Programming"
-    },
-    {
-      "description": "Modularization of applications, dependency injection, etc.",
-      "items": [],
-      "title": "Modularization and Dependency Injection"
-    },
-    {
-      "description": "Libraries and frameworks for writing distributed applications.",
-      "items": [],
-      "title": "Distributed Systems"
-    },
-    {
-      "description": "Scala extensions.",
-      "items": [],
-      "title": "Extensions"
-    },
-    {
-      "description": "Projects that don't fit into any specific category.",
-      "items": [],
-      "title": "Misc"
-    },
-    {
-      "description": "Scala libraries and wrappers for Android development.",
-      "items": [],
-      "title": "Android"
-    },
-    {
-      "description": "Scala libraries and wrappers for HTTP clients.",
-      "items": [],
-      "title": "HTTP"
-    },
-    {
-      "description": "Scala libraries for interactions with the Web of Data, and other RDF tools.",
-      "items": [],
-      "title": "Semantic Web"
-    },
-    {
-      "description": "Scala libraries for gathering metrics and monitoring applications.",
-      "items": [],
-      "title": "Metrics and Monitoring"
-    },
-    {
-      "description": "Scala libraries for creating parsers.",
-      "items": [],
-      "title": "Parsing"
-    },
-    {
-      "description": "Sbt plugins to make your life easier.",
-      "items": [],
-      "title": "Sbt plugins"
-    },
-    {
-      "description": "XML and HTML generation and processing",
-      "items": [],
-      "title": "XML / HTML"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Markdown"
-    },
-    {
-      "description": "JavaScript generation and interop libraries.",
-      "items": [],
-      "title": "JavaScript"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Scheduling"
-    },
-    {
-      "description": "Web templating engines.",
-      "items": [],
-      "title": "Templating"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Tools"
-    },
-    {
-      "description": "Libraries to aid with geospatial calculations and artifacts.",
-      "items": [],
-      "title": "Geospatial"
-    },
-    {
-      "description": "DevOps related tools and libraries.\nNice books, blogs and other resources to learn Scala",
-      "items": [],
-      "title": "Devops"
-    },
-    {
-      "description": "",
+      "description": "Nice books, blogs and other resources to learn Scala",
       "items": [
         {
-          "node_type": "item",
-          "title": "Demos and Examples in Scala (Chinese) ★ 923 ⧗ 2 - repo of sample Scala library usage, written in Chinese",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Demos and Examples in Scala (Chinese) ★ 923 ⧗ 2 - repo of sample Scala library usage, written in Chinese",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43056772,
+                "language": "Scala",
+                "last_commit": "2019-02-09T02:17:18Z",
+                "owner": "jacksu",
+                "repo": "utils4s",
+                "stars": 1079
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clean Architecture Example",
+              "description": "A step-by-step guide to develop an application using Clean Architecture in Scala.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 390995367,
+                "language": "Scala",
+                "last_commit": "2023-02-17T15:17:38Z",
+                "owner": "SaeidDadkhah",
+                "repo": "clean-arch-example",
+                "stars": 26
+              }
+            }
+          ],
           "description": null,
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2019-02-09T02:17:18Z",
-            "owner": "jacksu",
-            "repo": "utils4s",
-            "stars": 1079
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Clean Architecture Example",
-          "description": "A step-by-step guide to develop an application using Clean Architecture in Scala.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Scala",
-            "last_commit": "2023-02-17T15:17:38Z",
-            "owner": "SaeidDadkhah",
-            "repo": "clean-arch-example",
-            "stars": 26
-          }
+          "node_type": "group",
+          "title": "Tutorials and courses"
         }
       ],
-      "title": "Tutorials and courses"
+      "title": "Learning Scala"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:06:03.490Z",
+    "last_updated": "2026-08-19T08:06:24.271Z",
     "original_repository": "lauris/awesome-scala",
     "original_repository_sha": "9d66edf433d83df34ee40eea6520d0d308e11ff2",
     "enhanced_repository": "enhansome/enhansome-scala",
