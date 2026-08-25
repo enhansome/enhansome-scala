@@ -1130,7 +1130,7 @@
                 "last_commit": "2026-07-17T03:05:02Z",
                 "owner": "FasterXML",
                 "repo": "jackson",
-                "stars": 9801
+                "stars": 9802
               }
             },
             {
@@ -1755,7 +1755,7 @@
                 "archived": false,
                 "id": 2211243,
                 "language": "Java",
-                "last_commit": "2026-08-25T02:00:26Z",
+                "last_commit": "2026-08-25T07:50:58Z",
                 "owner": "apache",
                 "repo": "kafka",
                 "stars": 33610
@@ -1800,10 +1800,10 @@
                 "archived": false,
                 "id": 17165658,
                 "language": "Scala",
-                "last_commit": "2026-08-25T05:00:30Z",
+                "last_commit": "2026-08-25T07:34:02Z",
                 "owner": "apache",
                 "repo": "spark",
-                "stars": 43872
+                "stars": 43873
               }
             },
             {
@@ -1986,7 +1986,7 @@
                 "archived": false,
                 "id": 15673987,
                 "language": "Scala",
-                "last_commit": "2026-08-25T05:47:10Z",
+                "last_commit": "2026-08-25T06:14:09Z",
                 "owner": "monix",
                 "repo": "monix",
                 "stars": 1929
@@ -2674,7 +2674,7 @@
                 "archived": false,
                 "id": 41030802,
                 "language": "Scala",
-                "last_commit": "2026-08-24T17:08:25Z",
+                "last_commit": "2026-08-25T07:26:17Z",
                 "owner": "ACINQ",
                 "repo": "eclair",
                 "stars": 1342
@@ -3033,7 +3033,7 @@
                 "archived": false,
                 "id": 161060132,
                 "language": "Scala",
-                "last_commit": "2026-08-24T15:20:42Z",
+                "last_commit": "2026-08-25T07:58:41Z",
                 "owner": "softwaremill",
                 "repo": "tapir",
                 "stars": 1469
@@ -3406,7 +3406,7 @@
                 "archived": false,
                 "id": 30754770,
                 "language": "Scala",
-                "last_commit": "2026-08-10T19:54:11Z",
+                "last_commit": "2026-08-25T07:33:24Z",
                 "owner": "JetBrains",
                 "repo": "sbt-ide-settings",
                 "stars": 69
@@ -4018,7 +4018,7 @@
                 "archived": false,
                 "id": 279553,
                 "language": "Scala",
-                "last_commit": "2026-08-25T01:32:34Z",
+                "last_commit": "2026-08-25T06:02:37Z",
                 "owner": "sbt",
                 "repo": "sbt",
                 "stars": 4938
@@ -4322,7 +4322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:48:14.062Z",
+    "last_updated": "2026-08-25T08:21:36.570Z",
     "original_repository": "lauris/awesome-scala",
     "original_repository_id": 21604505,
     "original_repository_sha": "9d66edf433d83df34ee40eea6520d0d308e11ff2",
