@@ -44,7 +44,7 @@
                 "archived": false,
                 "id": 86823191,
                 "language": "Scala",
-                "last_commit": "2026-08-26T13:17:55Z",
+                "last_commit": "2026-08-27T18:23:09Z",
                 "owner": "crobox",
                 "repo": "clickhouse-scala-client",
                 "stars": 118
@@ -1172,7 +1172,7 @@
                 "archived": false,
                 "id": 104897792,
                 "language": "Scala",
-                "last_commit": "2026-08-21T07:41:41Z",
+                "last_commit": "2026-08-27T15:58:05Z",
                 "owner": "plokhotnyuk",
                 "repo": "jsoniter-scala",
                 "stars": 819
@@ -1202,7 +1202,7 @@
                 "archived": false,
                 "id": 75692093,
                 "language": "Scala",
-                "last_commit": "2026-08-26T16:20:32Z",
+                "last_commit": "2026-08-27T16:51:45Z",
                 "owner": "playframework",
                 "repo": "play-json",
                 "stars": 375
@@ -1481,7 +1481,7 @@
                 "last_commit": "2026-01-28T17:32:40Z",
                 "owner": "intel",
                 "repo": "ipex-llm",
-                "stars": 8859
+                "stars": 8860
               }
             },
             {
@@ -1643,7 +1643,7 @@
                 "archived": false,
                 "id": 26921116,
                 "language": "Java",
-                "last_commit": "2026-08-27T11:40:06Z",
+                "last_commit": "2026-08-27T18:23:56Z",
                 "owner": "haifengl",
                 "repo": "smile",
                 "stars": 6413
@@ -1725,7 +1725,7 @@
                 "archived": false,
                 "id": 20587599,
                 "language": "Java",
-                "last_commit": "2026-08-27T10:02:02Z",
+                "last_commit": "2026-08-27T13:36:17Z",
                 "owner": "apache",
                 "repo": "flink",
                 "stars": 26295
@@ -1755,10 +1755,10 @@
                 "archived": false,
                 "id": 2211243,
                 "language": "Java",
-                "last_commit": "2026-08-27T09:34:30Z",
+                "last_commit": "2026-08-27T16:33:18Z",
                 "owner": "apache",
                 "repo": "kafka",
-                "stars": 33633
+                "stars": 33635
               }
             },
             {
@@ -1800,10 +1800,10 @@
                 "archived": false,
                 "id": 17165658,
                 "language": "Scala",
-                "last_commit": "2026-08-27T07:13:18Z",
+                "last_commit": "2026-08-27T17:58:10Z",
                 "owner": "apache",
                 "repo": "spark",
-                "stars": 43887
+                "stars": 43889
               }
             },
             {
@@ -1830,10 +1830,10 @@
                 "archived": false,
                 "id": 95784433,
                 "language": "Scala",
-                "last_commit": "2026-08-27T11:59:35Z",
+                "last_commit": "2026-08-27T15:36:19Z",
                 "owner": "TouK",
                 "repo": "nussknacker",
-                "stars": 743
+                "stars": 742
               }
             }
           ],
@@ -2016,7 +2016,7 @@
                 "archived": false,
                 "id": 134079884,
                 "language": "Scala",
-                "last_commit": "2026-08-27T02:01:16Z",
+                "last_commit": "2026-08-27T16:53:31Z",
                 "owner": "zio",
                 "repo": "zio",
                 "stars": 4411
@@ -2607,7 +2607,7 @@
                 "archived": false,
                 "id": 5793618,
                 "language": "Java",
-                "last_commit": "2026-08-26T13:05:57Z",
+                "last_commit": "2026-08-27T13:06:16Z",
                 "owner": "tinylog-org",
                 "repo": "tinylog",
                 "stars": 771
@@ -2674,7 +2674,7 @@
                 "archived": false,
                 "id": 41030802,
                 "language": "Scala",
-                "last_commit": "2026-08-27T07:44:41Z",
+                "last_commit": "2026-08-27T16:11:17Z",
                 "owner": "ACINQ",
                 "repo": "eclair",
                 "stars": 1343
@@ -2958,7 +2958,7 @@
                 "archived": false,
                 "id": 3692188,
                 "language": "Scala",
-                "last_commit": "2026-08-24T01:20:09Z",
+                "last_commit": "2026-08-27T14:10:47Z",
                 "owner": "http4s",
                 "repo": "http4s",
                 "stars": 2626
@@ -2991,7 +2991,7 @@
                 "last_commit": "2026-04-01T02:19:13Z",
                 "owner": "com-lihaoyi",
                 "repo": "requests-scala",
-                "stars": 748
+                "stars": 749
               }
             },
             {
@@ -3033,7 +3033,7 @@
                 "archived": false,
                 "id": 161060132,
                 "language": "Scala",
-                "last_commit": "2026-08-26T15:39:25Z",
+                "last_commit": "2026-08-27T14:31:35Z",
                 "owner": "softwaremill",
                 "repo": "tapir",
                 "stars": 1469
@@ -3051,7 +3051,7 @@
                 "last_commit": "2026-06-12T16:48:18Z",
                 "owner": "endpoints4s",
                 "repo": "endpoints4s",
-                "stars": 416
+                "stars": 417
               }
             },
             {
@@ -3226,7 +3226,7 @@
                 "archived": false,
                 "id": 37548601,
                 "language": "Scala",
-                "last_commit": "2026-08-27T11:46:16Z",
+                "last_commit": "2026-08-27T12:55:04Z",
                 "owner": "coursier",
                 "repo": "coursier",
                 "stars": 2135
@@ -3898,7 +3898,7 @@
                 "archived": false,
                 "id": 37548601,
                 "language": "Scala",
-                "last_commit": "2026-08-27T11:46:16Z",
+                "last_commit": "2026-08-27T12:55:04Z",
                 "owner": "coursier",
                 "repo": "coursier",
                 "stars": 2135
@@ -4003,7 +4003,7 @@
                 "archived": false,
                 "id": 107214500,
                 "language": "Scala",
-                "last_commit": "2026-08-24T13:58:26Z",
+                "last_commit": "2026-08-27T13:51:00Z",
                 "owner": "com-lihaoyi",
                 "repo": "mill",
                 "stars": 2783
@@ -4021,7 +4021,7 @@
                 "last_commit": "2026-08-27T05:44:58Z",
                 "owner": "sbt",
                 "repo": "sbt",
-                "stars": 4940
+                "stars": 4941
               }
             },
             {
@@ -4063,7 +4063,7 @@
                 "archived": false,
                 "id": 14594941,
                 "language": "Scala",
-                "last_commit": "2026-08-22T09:29:57Z",
+                "last_commit": "2026-08-27T17:50:16Z",
                 "owner": "scapegoat-scala",
                 "repo": "scapegoat",
                 "stars": 556
@@ -4322,7 +4322,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:04:09.021Z",
+    "last_updated": "2026-08-27T18:24:05.689Z",
     "original_repository_info": {
       "archived": false,
       "id": 21604505,
